@@ -1,4 +1,4 @@
-# ¡Hola! Soy Haytham Cano Luque
+# Hola, Soy Haytham Cano Luque
 
 Soy un profesional en formación nacido en Atalaya de Veraguas, Panamá. Enfocado en el desarrollo de aplicaciones web interactivas, programación de sistemas y soporte técnico. Busco aportar mis conocimientos en tecnología y redes mientras continúo desarrollando soluciones innovadoras.
 
